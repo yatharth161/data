@@ -1,0 +1,434 @@
+parent_name,parent_entity_id,parent_entity_type,parent_lei,parent_permid,parent_registration_country,parent_headquarter_country,overall_share_percent,ownership_path,ownership_path_datasource_ids,immediate_source_owner,immediate_source_owner_entity_id,source_operator,source_operator_id,source_id,source_name,source_sector,source_subsector
+,,,,,,,,,,,,Star Air,E100002014935,3170428,Adampur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172077,Agartala - Maharaja Bir Bikram Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3172077,Agartala - Maharaja Bir Bikram Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3172077,Agartala - Maharaja Bir Bikram Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172077,Agartala - Maharaja Bir Bikram Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3172077,Agartala - Maharaja Bir Bikram Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3170417,Agatti Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Fly91,E100002019135,3170417,Agatti Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170417,Agatti Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170412,Agra Airport / Agra Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,40683352,Aligarh Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172092,Aurangabad Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172092,Aurangabad Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,40682055,Ayodhya Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,40682055,Ayodhya Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,40682055,Ayodhya Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,40682055,Ayodhya Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,40682055,Ayodhya Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Zooom,E100002019112,40682055,Ayodhya Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,40682063,Azamgarh Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172078,Bagdogra Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3172078,Bagdogra Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3172078,Bagdogra Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172078,Bagdogra Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Royal Bhutan Airlines,E100002014850,3172078,Bagdogra Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3172078,Bagdogra Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3172078,Bagdogra Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3170645,Bareilly Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170645,Bareilly Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172082,Belagavi Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3172082,Belagavi Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3170858,Bhatinda Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3170858,Bhatinda Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3170692,Bhavnagar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3170685,Bhuj Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3170685,Bhuj Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3170685,Bhuj Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3172094,Bidar Airport / Bidar Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3170612,Biju Patnaik International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3170612,Biju Patnaik International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3170612,Biju Patnaik International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3170612,Biju Patnaik International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170612,Biju Patnaik International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiaOne Air,E100002019142,3170612,Biju Patnaik International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3170612,Biju Patnaik International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3170612,Biju Patnaik International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3173419,Bilaspur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172089,Birsa Munda Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3172089,Birsa Munda Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172089,Birsa Munda Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3172089,Birsa Munda Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3170950,Calicut International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3170950,Calicut International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170950,Calicut International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3170950,Calicut International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172079,Chandigarh International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172079,Chandigarh International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172079,Chandigarh International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3172079,Chandigarh International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172634,Chaudhary Charan Singh International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3172634,Chaudhary Charan Singh International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3172634,Chaudhary Charan Singh International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172634,Chaudhary Charan Singh International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172634,Chaudhary Charan Singh International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3172634,Chaudhary Charan Singh International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3172634,Chaudhary Charan Singh International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3172634,Chaudhary Charan Singh International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172774,Chennai International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3172774,Chennai International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3172774,Chennai International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172774,Chennai International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Blue Dart,E100002014434,3172774,Chennai International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Corendon Airlines,E100002014505,3172774,Chennai International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Deutsche Lufthansa AG,E100002014520,3172774,Chennai International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172774,Chennai International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3172774,Chennai International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3172774,Chennai International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Blue Dart,E100002014434,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Cathay Pacific Airways,E100002014465,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Corendon Airlines Europe,E100002014506,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Deutsche Lufthansa AG,E100002014520,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Quikjet Cargo Airlines,E100002019128,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Red Wings Airlines,E100002014839,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Royal Bhutan Airlines,E100002014850,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3170781,Chhatrapati Shivaji International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,40682630,Chitrakoot Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3171090,Cochin International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3171090,Cochin International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3171090,Cochin International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171090,Cochin International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Corendon Airlines Europe,E100002014506,3171090,Cochin International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171090,Cochin International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3171090,Cochin International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3171090,Cochin International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3171034,Coimbatore International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171034,Coimbatore International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3171034,Coimbatore International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3171034,Coimbatore International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiaOne Air,E100002019142,3171089,Cooch Behar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3171703,Dabolim Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3171703,Dabolim Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171703,Dabolim Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171703,Dabolim Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3171703,Dabolim Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3171703,Dabolim Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171212,Darbhanga Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3171212,Darbhanga Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3171228,Dehradun Jolly Grant Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171228,Dehradun Jolly Grant Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171228,Dehradun Jolly Grant Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3171228,Dehradun Jolly Grant Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3171228,Dehradun Jolly Grant Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171238,Deoghar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3171968,Devi Ahilyabai Holkar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3171968,Devi Ahilyabai Holkar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171968,Devi Ahilyabai Holkar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171968,Devi Ahilyabai Holkar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3171968,Devi Ahilyabai Holkar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3171248,Dibrugarh Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171248,Dibrugarh Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171248,Dibrugarh Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3171248,Dibrugarh Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3171248,Dibrugarh Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3171289,Dimapur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171289,Dimapur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171289,Dimapur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171259,Diu Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171259,Diu Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3173101,Dr. Babasaheb Ambedkar International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3173101,Dr. Babasaheb Ambedkar International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3173101,Dr. Babasaheb Ambedkar International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171603,Gaya Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171620,Gondia Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3171706,Gorakhpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171706,Gorakhpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171706,Gorakhpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3171706,Gorakhpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3171761,Gwalior Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3171761,Gwalior Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171761,Gwalior Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171761,Gwalior Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,40683259,Hindon Airport / Hindon Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,40683259,Hindon Airport / Hindon Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171797,Hubli Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172002,Imphal Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3172002,Imphal Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172002,Imphal Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172002,Imphal Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3172002,Imphal Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3171231,Indira Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3171231,Indira Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3171231,Indira Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171231,Indira Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Blue Dart,E100002014434,3171231,Indira Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Corendon Airlines,E100002014505,3171231,Indira Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Corendon Airlines Europe,E100002014506,3171231,Indira Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171231,Indira Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Quikjet Cargo Airlines,E100002019128,3171231,Indira Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Red Wings Airlines,E100002014839,3171231,Indira Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3171231,Indira Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3171231,Indira Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Zooom,E100002019112,3171231,Indira Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171825,Itanagar Donyi Polo Hollongi Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171825,Itanagar Donyi Polo Hollongi Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3171825,Itanagar Donyi Polo Hollongi Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172167,Jabalpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172167,Jabalpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3172167,Jabalpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172136,Jagdalpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172136,Jagdalpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172105,Jaipur International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3172105,Jaipur International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3172105,Jaipur International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172105,Jaipur International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172105,Jaipur International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3172105,Jaipur International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3172105,Jaipur International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3172105,Jaipur International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172198,Jaisalmer Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3172198,Jaisalmer Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,39229310,Jalgaon Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Fly91,E100002019135,39229310,Jalgaon Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172084,Jammu Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3172084,Jammu Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172084,Jammu Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172084,Jammu Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3172084,Jammu Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3172084,Jammu Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172135,Jamnagar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3172135,Jamnagar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3172135,Jamnagar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3173429,Jay Prakash Narayan Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3173429,Jay Prakash Narayan Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3173429,Jay Prakash Narayan Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3173429,Jay Prakash Narayan Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3173429,Jay Prakash Narayan Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiaOne Air,E100002019142,3173671,Jeypore Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172193,Jharsuguda Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172193,Jharsuguda Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3172193,Jharsuguda Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3174656,Jindal Vijaynagar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172124,Jodhpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3172124,Jodhpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3172124,Jodhpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172124,Jodhpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172124,Jodhpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3172124,Jodhpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3172124,Jodhpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172194,Jorhat Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172194,Jorhat Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3172194,Jorhat Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170965,Kadapa Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171607,Kalaburagi Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3171607,Kalaburagi Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3172095,Kandla Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171245,Kangra Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171245,Kangra Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3171245,Kangra Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3171080,Kannur International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171080,Kannur International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172391,Kanpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3173751,Kazi Nazrul Islam Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3170748,Kempegowda International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3170748,Kempegowda International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3170748,Kempegowda International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3170748,Kempegowda International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Blue Dart,E100002014434,3170748,Kempegowda International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Cathay Pacific Airways,E100002014465,3170748,Kempegowda International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Fly91,E100002019135,3170748,Kempegowda International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170748,Kempegowda International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Quikjet Cargo Airlines,E100002019128,3170748,Kempegowda International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3170748,Kempegowda International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3170748,Kempegowda International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3170748,Kempegowda International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172085,Keshod Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171844,Khajuraho Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3171844,Khajuraho Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3172418,Kishangarh Airport Ajmer,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172362,Kolhapur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3172362,Kolhapur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172476,Kullu Manali Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172339,Kurnool Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3174700,Lal Bahadur Shastri Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3174700,Lal Bahadur Shastri Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3174700,Lal Bahadur Shastri Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3174700,Lal Bahadur Shastri Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3174700,Lal Bahadur Shastri Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3174700,Lal Bahadur Shastri Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3174700,Lal Bahadur Shastri Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172086,Leh Kushok Bakula Rimpochee Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172086,Leh Kushok Bakula Rimpochee Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3172086,Leh Kushok Bakula Rimpochee Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3172086,Leh Kushok Bakula Rimpochee Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3170437,Lengpui Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170437,Lengpui Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172083,Lilabari North Lakhimpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3171601,Lokpriya Gopinath Bordoloi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3171601,Lokpriya Gopinath Bordoloi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3171601,Lokpriya Gopinath Bordoloi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171601,Lokpriya Gopinath Bordoloi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171601,Lokpriya Gopinath Bordoloi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3171601,Lokpriya Gopinath Bordoloi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3171601,Lokpriya Gopinath Bordoloi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3171601,Lokpriya Gopinath Bordoloi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3172729,Ludhiana Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172087,Madurai Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3172087,Madurai Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172087,Madurai Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3172087,Madurai Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3174523,Maharana Pratap Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3174523,Maharana Pratap Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3174523,Maharana Pratap Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3174523,Maharana Pratap Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3174523,Maharana Pratap Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3174523,Maharana Pratap Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3174523,Maharana Pratap Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172081,Mangalore International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3172081,Mangalore International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172081,Mangalore International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3171711,Manohar International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3171711,Manohar International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Fly91,E100002019135,3171711,Manohar International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171711,Manohar International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3171711,Manohar International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3171711,Manohar International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3171711,Manohar International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,40684529,Moradabad Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3173080,Mysore Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3173080,Mysore Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3170725,Nal Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3173132,Nanded Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172055,Nashik Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3170958,Netaji Subhash Chandra Bose International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3170958,Netaji Subhash Chandra Bose International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3170958,Netaji Subhash Chandra Bose International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3170958,Netaji Subhash Chandra Bose International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Blue Dart,E100002014434,3170958,Netaji Subhash Chandra Bose International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170958,Netaji Subhash Chandra Bose International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiaOne Air,E100002019142,3170958,Netaji Subhash Chandra Bose International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3170958,Netaji Subhash Chandra Bose International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3170958,Netaji Subhash Chandra Bose International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3170958,Netaji Subhash Chandra Bose International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3173673,Pakyong Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3173482,Pantnagar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3173482,Pantnagar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172091,Pasighat Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3172091,Pasighat Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3173572,Pondicherry Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3173572,Pondicherry Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3172080,Prayagraj Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172080,Prayagraj Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172080,Prayagraj Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3173568,Pune Airport / Lohagaon Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3173568,Pune Airport / Lohagaon Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3173568,Pune Airport / Lohagaon Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3173568,Pune Airport / Lohagaon Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,Fly91,E100002019135,3173568,Pune Airport / Lohagaon Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3173568,Pune Airport / Lohagaon Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3173568,Pune Airport / Lohagaon Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3173568,Pune Airport / Lohagaon Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3173568,Pune Airport / Lohagaon Air Force Station,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3170688,Raja Bhoj International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170688,Raja Bhoj International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3173794,Rajahmundry Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3171937,Rajiv Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3171937,Rajiv Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3171937,Rajiv Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3171937,Rajiv Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Blue Dart,E100002014434,3171937,Rajiv Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Deutsche Lufthansa AG,E100002014520,3171937,Rajiv Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Fly91,E100002019135,3171937,Rajiv Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3171937,Rajiv Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Quikjet Cargo Airlines,E100002019128,3171937,Rajiv Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3171937,Rajiv Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3171937,Rajiv Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3171937,Rajiv Gandhi International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,40683365,Rajkot International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,40683365,Rajkot International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,40683365,Rajkot International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,40685248,Rashtrakavi Kuvempu Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,40685248,Rashtrakavi Kuvempu Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,40685248,Rashtrakavi Kuvempu Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3173851,Rourkela Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3173874,Rupsi Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3173874,Rupsi Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3174196,Salem Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3174196,Salem Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3170472,Sardar Vallabh Bhai Patel International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3170472,Sardar Vallabh Bhai Patel International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3170472,Sardar Vallabh Bhai Patel International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Blue Dart,E100002014434,3170472,Sardar Vallabh Bhai Patel International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170472,Sardar Vallabh Bhai Patel International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3170472,Sardar Vallabh Bhai Patel International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3170472,Sardar Vallabh Bhai Patel International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3170472,Sardar Vallabh Bhai Patel International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3174195,Sheikh ul Alam International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3174195,Sheikh ul Alam International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3174195,Sheikh ul Alam International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3174195,Sheikh ul Alam International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3174195,Sheikh ul Alam International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3174195,Sheikh ul Alam International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3173991,Shillong Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3173991,Shillong Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3173991,Shillong Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3174055,Shimla Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3173899,Shirdi Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3173899,Shirdi Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3173899,Shirdi Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,40686114,Shravasti Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172090,Silchar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3172090,Silchar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172090,Silchar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3172090,Silchar Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3173951,Sindhudurg Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Fly91,E100002019135,3173951,Sindhudurg Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiaOne Air,E100002019142,3172093,Sonari Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3170550,Sri Guru Ram Dass Jee International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3170550,Sri Guru Ram Dass Jee International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3170550,Sri Guru Ram Dass Jee International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170550,Sri Guru Ram Dass Jee International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3170550,Sri Guru Ram Dass Jee International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3170550,Sri Guru Ram Dass Jee International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3174144,Surat Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3174144,Surat Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3174144,Surat Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3174144,Surat Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3173847,Swami Vivekananda Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3173847,Swami Vivekananda Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3173847,Swami Vivekananda Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiaOne Air,E100002019142,3173847,Swami Vivekananda Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3173847,Swami Vivekananda Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3174283,Tezpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3174283,Tezpur Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3174275,Tezu Airport,transportation,domestic-aviation
+,,,,,,,,,,,,flybig,E100002014579,3174275,Tezu Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3174437,Thiruvananthapuram International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3174437,Thiruvananthapuram International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3174437,Thiruvananthapuram International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3174437,Thiruvananthapuram International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3174437,Thiruvananthapuram International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3174439,Tiruchirappalli International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3174439,Tiruchirappalli International Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3174327,Tirupati Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3174327,Tirupati Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3174327,Tirupati Airport,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3174327,Tirupati Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Star Air,E100002014935,3174327,Tirupati Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3174263,Tuticorin Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiaOne Air,E100002019142,40685940,Utkela Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3170636,Vadodara Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3170636,Vadodara Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3172096,Veer Savarkar International Airport / INS Utkrosh,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3172096,Veer Savarkar International Airport / INS Utkrosh,transportation,domestic-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3172096,Veer Savarkar International Airport / INS Utkrosh,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3172096,Veer Savarkar International Airport / INS Utkrosh,transportation,domestic-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3172096,Veer Savarkar International Airport / INS Utkrosh,transportation,domestic-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3172096,Veer Savarkar International Airport / INS Utkrosh,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3174663,Vijayawada Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3174663,Vijayawada Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3174663,Vijayawada Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3174663,Vijayawada Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India,E100002014292,3174726,Visakhapatnam Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3174726,Visakhapatnam Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3174726,Visakhapatnam Airport,transportation,domestic-aviation
+,,,,,,,,,,,,IndiaOne Air,E100002019142,3174726,Visakhapatnam Airport,transportation,domestic-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3175178,Ziro Airport,transportation,domestic-aviation

@@ -1,0 +1,12 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+IND,transportation,international-aviation,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,9275884.022453995,,annual,,
+IND,transportation,international-aviation,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,9902973.816848934,,annual,,
+IND,transportation,international-aviation,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,10908947.515249752,,annual,,
+IND,transportation,international-aviation,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,11610021.08514271,,annual,,
+IND,transportation,international-aviation,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,11242574.020169524,,annual,,
+IND,transportation,international-aviation,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,5050834.904035093,,annual,,
+IND,transportation,international-aviation,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,5020389.703042256,,annual,,
+IND,transportation,international-aviation,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,9176458.113001492,,annual,,
+IND,transportation,international-aviation,2023-01-01 00:00:00,2023-12-31 00:00:00,co2,11271493.329850316,,annual,,
+IND,transportation,international-aviation,2024-01-01 00:00:00,2024-12-31 00:00:00,co2,12451090.962765455,,annual,,
+IND,transportation,international-aviation,2025-01-01 00:00:00,2025-12-31 00:00:00,co2,8442975.641300503,,annual,,

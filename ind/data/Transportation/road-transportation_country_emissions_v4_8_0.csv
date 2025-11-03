@@ -1,0 +1,12 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+IND,transportation,road-transportation,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,140309780.71806943,,annual,,
+IND,transportation,road-transportation,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,145955399.9932036,,annual,,
+IND,transportation,road-transportation,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,157752953.82681414,,annual,,
+IND,transportation,road-transportation,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,165167792.74817368,,annual,,
+IND,transportation,road-transportation,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,166901883.3998387,,annual,,
+IND,transportation,road-transportation,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,150979962.3546241,,annual,,
+IND,transportation,road-transportation,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,145700987.4395761,,annual,,
+IND,transportation,road-transportation,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,174152131.12113914,,annual,,
+IND,transportation,road-transportation,2023-01-01 00:00:00,2023-12-31 00:00:00,co2,196251531.18028715,,annual,,
+IND,transportation,road-transportation,2024-01-01 00:00:00,2024-12-31 00:00:00,co2,211160864.68388623,,annual,,
+IND,transportation,road-transportation,2025-01-01 00:00:00,2025-12-31 00:00:00,co2,148072583.20319197,,annual,,

@@ -1,0 +1,12 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+IND,transportation,railways,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,8756522.298000002,,annual,,
+IND,transportation,railways,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,8509065.122000001,,annual,,
+IND,transportation,railways,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,8460415.843000002,,annual,,
+IND,transportation,railways,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,8717262.588000001,,annual,,
+IND,transportation,railways,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,8150427.278000002,,annual,,
+IND,transportation,railways,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,3923875.4100000006,,annual,,
+IND,transportation,railways,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,5613702.1110000005,,annual,,
+IND,transportation,railways,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,6047055.836000002,,annual,,
+IND,transportation,railways,2023-01-01 00:00:00,2023-12-31 00:00:00,co2,6332629.102000001,,annual,,
+IND,transportation,railways,2024-01-01 00:00:00,2024-12-31 00:00:00,co2,6332629.102000001,,annual,,
+IND,transportation,railways,2025-01-01 00:00:00,2025-12-31 00:00:00,co2,4191013.2810100727,,annual,,

@@ -1,0 +1,12 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+IND,transportation,other-transport,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,954098.1822633488,,annual,,
+IND,transportation,other-transport,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,1092782.7819580212,,annual,,
+IND,transportation,other-transport,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,1138266.3469562742,,annual,,
+IND,transportation,other-transport,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,1228171.4289528206,,annual,,
+IND,transportation,other-transport,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,1190245.7639542772,,annual,,
+IND,transportation,other-transport,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,999563.5857616022,,annual,,
+IND,transportation,other-transport,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,1110406.1419573445,,annual,,
+IND,transportation,other-transport,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,1038578.9019601034,,annual,,
+IND,transportation,other-transport,2023-01-01 00:00:00,2023-12-31 00:00:00,co2,1112910.6069572484,,annual,,
+IND,transportation,other-transport,2024-01-01 00:00:00,2024-12-31 00:00:00,co2,1112910.6069572482,,annual,,
+IND,transportation,other-transport,2025-01-01 00:00:00,2025-12-31 00:00:00,co2,736540.2523904971,,annual,,

@@ -1,0 +1,450 @@
+parent_name,parent_entity_id,parent_entity_type,parent_lei,parent_permid,parent_registration_country,parent_headquarter_country,overall_share_percent,ownership_path,ownership_path_datasource_ids,immediate_source_owner,immediate_source_owner_entity_id,source_operator,source_operator_id,source_id,source_name,source_sector,source_subsector
+,,,,,,,,,,,,Royal Bhutan Airlines,E100002014850,3167172,Bagdogra Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3165706,Biju Patnaik International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3165706,Biju Patnaik International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3166044,Calicut International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia Abu Dhabi,E100002014254,3166044,Calicut International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3166044,Calicut International Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3166044,Calicut International Airport,transportation,international-aviation
+,,,,,,,,,,,,Etihad Airways,E100002014545,3166044,Calicut International Airport,transportation,international-aviation
+,,,,,,,,,,,,FLYNAS,E100002014587,3166044,Calicut International Airport,transportation,international-aviation
+,,,,,,,,,,,,Flydubai,E100002014581,3166044,Calicut International Airport,transportation,international-aviation
+,,,,,,,,,,,,Gulf Air,E100002014617,3166044,Calicut International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3166044,Calicut International Airport,transportation,international-aviation
+,,,,,,,,,,,,Oman Air,E100002014792,3166044,Calicut International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3166044,Calicut International Airport,transportation,international-aviation
+,,,,,,,,,,,,SalamAir,E100002014864,3166044,Calicut International Airport,transportation,international-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3166044,Calicut International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3167173,Chandigarh International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3167728,Chaudhary Charan Singh International Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3167728,Chaudhary Charan Singh International Airport,transportation,international-aviation
+,,,,,,,,,,,,FLYNAS,E100002014587,3167728,Chaudhary Charan Singh International Airport,transportation,international-aviation
+,,,,,,,,,,,,Flydubai,E100002014581,3167728,Chaudhary Charan Singh International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3167728,Chaudhary Charan Singh International Airport,transportation,international-aviation
+,,,,,,,,,,,,Oman Air,E100002014792,3167728,Chaudhary Charan Singh International Airport,transportation,international-aviation
+,,,,,,,,,,,,SalamAir,E100002014864,3167728,Chaudhary Charan Singh International Airport,transportation,international-aviation
+,,,,,,,,,,,,Saudi Arabian Airlines,E100002014870,3167728,Chaudhary Charan Singh International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai AirAsia,E100002014976,3167728,Chaudhary Charan Singh International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia Abu Dhabi,E100002014254,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air France,E100002014286,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India,E100002014292,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Mauritius,E100002014305,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Alliance Air,E100002014360,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Batik Air,E100002014419,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Biman Bangladesh Airlines,E100002014428,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,British Airways,E100002014442,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Cathay Pacific Airways,E100002014465,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Deutsche Lufthansa AG,E100002014520,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Emirates,E100002014537,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Ethiopian Airlines,E100002014544,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Etihad Airways,E100002014545,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,FITS Aviation (Pvt) Ltd,E100002014562,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,FlexFlight ApS,E100002014565,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Flydubai,E100002014581,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,"Guangdong Longhao Airlines Co., Ltd",E100002014615,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Gulf Air,E100002014617,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Hong Kong Air Cargo Carrier Limited,E100002019067,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Jazeera Airways,E100002014665,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Kuwait Airways,E100002014701,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Malaysia Airlines,E100002014733,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Myanmar Airways International,E100002014759,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Oman Air,E100002014792,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Royal Brunei Airlines,E100002014851,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,SF Airlines,E100002014882,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,SalamAir,E100002014864,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Saudi Arabian Airlines,E100002014870,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Scoot,E100002014873,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Sichuan Airlines,E100002014889,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Singapore Airlines,E100002014895,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Srilankan Airlines,E100002014932,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai AirAsia,E100002014976,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Airways International,E100002014977,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Lion Air,E100002014978,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Turkish Airlines,E100002015013,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,US-Bangla Airlines,E100002015030,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,YTO Cargo Airlines Co. Ltd,E100002015076,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,flyadeal,E100002014577,3167868,Chennai International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Astana,E100002014257,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Canada,E100002014267,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air France,E100002014286,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India,E100002014292,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Mauritius,E100002014305,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Peace,E100002014315,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Seychelles,E100002014322,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Tanzania,E100002014328,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,All Nippon Airways,E100002014358,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Azerbaijan Airlines,E100002014406,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Batik Air Malaysia,E100002014420,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Bhutan Airlines,E100002014427,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,British Airways,E100002014442,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Cathay Pacific Airways,E100002014465,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,China Airlines,E100002014478,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Corendon Airlines Europe,E100002014506,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Deutsche Lufthansa AG,E100002014520,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Egyptair,E100002014534,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Emirates,E100002014537,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Ethiopian Airlines,E100002014544,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Etihad Airways,E100002014545,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,FLYNAS,E100002014587,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Fly Baghdad Airlines,E100002014571,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Flydubai,E100002014581,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Gulf Air,E100002014617,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Iran Air,E100002014652,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Iraqi Airways,E100002014655,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Jazeera Airways,E100002014665,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,KLM-Royal Dutch Airlines,E100002014695,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Kenya Airways,E100002014690,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Kuwait Airways,E100002014701,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,LOT - Polish Airlines,E100002014721,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Malaysia Airlines,E100002014733,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Nepal Airlines Corporation,E100002014764,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Nok Air,E100002014770,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Oman Air,E100002014792,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Red Wings Airlines,E100002014839,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Royal Bhutan Airlines,E100002014850,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Royal Jordanian,E100002014853,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,RwandAir,E100002014856,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,SWISS,E100002014954,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,SalamAir,E100002014864,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Saudi Arabian Airlines,E100002014870,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Sichuan Airlines,E100002014889,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Silk Way West Airlines,E100002014891,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Singapore Airlines,E100002014895,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Srilankan Airlines,E100002014932,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Airways International,E100002014977,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Lion Air,E100002014978,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Vietjet Air,E100002014981,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Turkish Airlines,E100002015013,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Uganda Airlines,E100002015020,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Uzbekistan Airways,E100002015033,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Vietjet,E100002015038,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Vietnam Airlines,E100002015039,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Virgin Atlantic Airways,E100002015041,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,YTO Cargo Airlines Co. Ltd,E100002015076,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Yemenia Yemen Airways,E100002015074,3165875,Chhatrapati Shivaji International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia Abu Dhabi,E100002014254,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India,E100002014292,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Batik Air Malaysia,E100002014420,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Emirates,E100002014537,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Etihad Airways,E100002014545,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Flydubai,E100002014581,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Gulf Air,E100002014617,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Jazeera Airways,E100002014665,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Kuwait Airways,E100002014701,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Malaysia Airlines,E100002014733,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Maldivian,E100002014734,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Oman Air,E100002014792,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Saudi Arabian Airlines,E100002014870,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Singapore Airlines,E100002014895,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Srilankan Airlines,E100002014932,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai AirAsia,E100002014976,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Airways International,E100002014977,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Lion Air,E100002014978,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Vietjet,E100002015038,3166184,Cochin International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3166128,Coimbatore International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3166128,Coimbatore International Airport,transportation,international-aviation
+,,,,,,,,,,,,Scoot,E100002014873,3166128,Coimbatore International Airport,transportation,international-aviation
+,,,,,,,,,,,,AZUR air,E100002014411,3166797,Dabolim Airport,transportation,international-aviation
+,,,,,,,,,,,,Aeroflot Russian Airlines,E100002014234,3166797,Dabolim Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3166797,Dabolim Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3166797,Dabolim Airport,transportation,international-aviation
+,,,,,,,,,,,,FlyArystan,E100002019085,3166797,Dabolim Airport,transportation,international-aviation
+,,,,,,,,,,,,Gulf Air,E100002014617,3166797,Dabolim Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3166797,Dabolim Airport,transportation,international-aviation
+,,,,,,,,,,,,SmartWings,E100002014915,3166797,Dabolim Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3167062,Devi Ahilyabai Holkar Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3168195,Dr. Babasaheb Ambedkar International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3168195,Dr. Babasaheb Ambedkar International Airport,transportation,international-aviation
+,,,,,,,,,,,,Saudi Arabian Airlines,E100002014870,3168195,Dr. Babasaheb Ambedkar International Airport,transportation,international-aviation
+,,,,,,,,,,,,Bhutan Airlines,E100002014427,3166697,Gaya Airport,transportation,international-aviation
+,,,,,,,,,,,,Myanmar Airways International,E100002014759,3166697,Gaya Airport,transportation,international-aviation
+,,,,,,,,,,,,Royal Bhutan Airlines,E100002014850,3166697,Gaya Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai AirAsia,E100002014976,3166697,Gaya Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Airways International,E100002014977,3166697,Gaya Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Vietjet Air,E100002014981,3166697,Gaya Airport,transportation,international-aviation
+,,,,,,,,,,,,Aero Nomad Airlines,E100002014230,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Aeroflot Russian Airlines,E100002014234,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Astana,E100002014257,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Canada,E100002014267,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air France,E100002014286,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India,E100002014292,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Mauritius,E100002014305,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Airasia X,E100002014336,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,All Nippon Airways,E100002014358,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,American Airlines,E100002014369,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Ariana Afghan Airlines,E100002014377,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Armenia Airways Aircompany CJSC,E100002014380,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Armenian Airlines,E100002019090,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Asiana Airlines,E100002014383,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Atlas Air,E100002014392,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Azerbaijan Airlines,E100002014406,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Batik Air Malaysia,E100002014420,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Belavia,E100002014423,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Bhutan Airlines,E100002014427,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Biman Bangladesh Airlines,E100002014428,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,British Airways,E100002014442,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Cambodia Angkor Air,E100002014454,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Cathay Pacific Airways,E100002014465,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,China Airlines,E100002014478,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Corendon Airlines,E100002014505,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Corendon Airlines Europe,E100002014506,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Deutsche Lufthansa AG,E100002014520,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Egyptair,E100002014534,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Emirates,E100002014537,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Ethiopian Airlines,E100002014544,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Etihad Airways,E100002014545,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,FLYNAS,E100002014587,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Finnair,E100002014560,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,FlexFlight ApS,E100002014565,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Flydubai,E100002014581,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,"Guangdong Longhao Airlines Co., Ltd",E100002014615,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Gulf Air,E100002014617,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Hong Kong Air Cargo Carrier Limited,E100002019067,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,ITA Airways,E100002014660,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Iraqi Airways,E100002014655,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Japan Airlines,E100002014663,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Jazeera Airways,E100002014665,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,KLM-Royal Dutch Airlines,E100002014695,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Kam Air,E100002014687,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Korean Air,E100002014697,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Kuwait Airways,E100002014701,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,LOT - Polish Airlines,E100002014721,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Mahan Air,E100002014730,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Malaysia Airlines,E100002014733,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Myanmar Airways International,E100002014759,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Nepal Airlines Corporation,E100002014764,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Oman Air,E100002014792,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qantas Airways,E100002014830,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Red Wings Airlines,E100002014839,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Royal Bhutan Airlines,E100002014850,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,SF Airlines,E100002014882,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,SWISS,E100002014954,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,SalamAir,E100002014864,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Saudi Arabian Airlines,E100002014870,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Sichuan Airlines,E100002014889,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Singapore Airlines,E100002014895,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Somon Air,E100002014922,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Srilankan Airlines,E100002014932,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Air Asia X,E100002014975,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Airways International,E100002014977,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Turkish Airlines,E100002015013,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Turkmenistan Airlines,E100002015014,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,United Airlines,E100002015025,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Uzbekistan Airways,E100002015033,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Vietjet,E100002015038,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Vietnam Airlines,E100002015039,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Virgin Atlantic Airways,E100002015041,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,World Ticket Ltd,E100002015067,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,YTO Cargo Airlines Co. Ltd,E100002015076,3166325,Indira Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3167199,Jaipur International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3167199,Jaipur International Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3167199,Jaipur International Airport,transportation,international-aviation
+,,,,,,,,,,,,Etihad Airways,E100002014545,3167199,Jaipur International Airport,transportation,international-aviation
+,,,,,,,,,,,,SalamAir,E100002014864,3167199,Jaipur International Airport,transportation,international-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3167199,Jaipur International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai AirAsia,E100002014976,3167199,Jaipur International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3166174,Kannur International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3166174,Kannur International Airport,transportation,international-aviation
+,,,,,,,,,,,,Saudi Arabian Airlines,E100002014870,3166174,Kannur International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air France,E100002014286,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India,E100002014292,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Batik Air Malaysia,E100002014420,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Bhutan Airlines,E100002014427,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,British Airways,E100002014442,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Cathay Pacific Airways,E100002014465,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Deutsche Lufthansa AG,E100002014520,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Emirates,E100002014537,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Ethiopian Airlines,E100002014544,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Etihad Airways,E100002014545,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,FlexFlight ApS,E100002014565,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Gulf Air,E100002014617,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Japan Airlines,E100002014663,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Jazeera Airways,E100002014665,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,KLM-Royal Dutch Airlines,E100002014695,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Kuwait Airways,E100002014701,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Malaysia Airlines,E100002014733,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Maldivian,E100002014734,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Manta Air,E100002014739,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Nepal Airlines Corporation,E100002014764,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Oman Air,E100002014792,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qantas Airways,E100002014830,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,SalamAir,E100002014864,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Saudi Arabian Airlines,E100002014870,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Sichuan Airlines,E100002014889,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Singapore Airlines,E100002014895,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Srilankan Airlines,E100002014932,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai AirAsia,E100002014976,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Airways International,E100002014977,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Lion Air,E100002014978,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Virgin Atlantic Airways,E100002015041,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,World2Fly Portugal,E100002015068,3165842,Kempegowda International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3169794,Lal Bahadur Shastri Airport,transportation,international-aviation
+,,,,,,,,,,,,Buddha Air,E100002014444,3169794,Lal Bahadur Shastri Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3166695,Lokpriya Gopinath Bordoloi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Royal Bhutan Airlines,E100002014850,3166695,Lokpriya Gopinath Bordoloi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai AirAsia,E100002014976,3166695,Lokpriya Gopinath Bordoloi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3167181,Madurai Airport,transportation,international-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3167181,Madurai Airport,transportation,international-aviation
+,,,,,,,,,,,,Srilankan Airlines,E100002014932,3167181,Madurai Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3167175,Mangalore International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3167175,Mangalore International Airport,transportation,international-aviation
+,,,,,,,,,,,,Aeroflot Russian Airlines,E100002014234,3166805,Manohar International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3166805,Manohar International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India,E100002014292,3166805,Manohar International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3166805,Manohar International Airport,transportation,international-aviation
+,,,,,,,,,,,,Oman Air,E100002014792,3166805,Manohar International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3166805,Manohar International Airport,transportation,international-aviation
+,,,,,,,,,,,,TUI Airways,E100002015005,3166805,Manohar International Airport,transportation,international-aviation
+,,,,,,,,,,,,Uzbekistan Airways,E100002015033,3166805,Manohar International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia Abu Dhabi,E100002014254,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India,E100002014292,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Batik Air Malaysia,E100002014420,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Bhutan Airlines,E100002014427,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Biman Bangladesh Airlines,E100002014428,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,China Eastern Airlines,E100002014481,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Emirates,E100002014537,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Etihad Airways,E100002014545,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,FlexFlight ApS,E100002014565,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Flydubai,E100002014581,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Malaysia Airlines,E100002014733,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Myanmar Airways International,E100002014759,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,NovoAir,E100002014788,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Royal Bhutan Airlines,E100002014850,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Singapore Airlines,E100002014895,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai AirAsia,E100002014976,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Airways International,E100002014977,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Lion Air,E100002014978,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,US-Bangla Airlines,E100002015030,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,flyadeal,E100002014577,3166052,Netaji Subhash Chandra Bose International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India,E100002014292,3168662,Pune Airport / Lohagaon Air Force Station,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3168662,Pune Airport / Lohagaon Air Force Station,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3168662,Pune Airport / Lohagaon Air Force Station,transportation,international-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3168662,Pune Airport / Lohagaon Air Force Station,transportation,international-aviation
+,,,,,,,,,,,,Vistara,E100002015043,3168662,Pune Airport / Lohagaon Air Force Station,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India,E100002014292,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,British Airways,E100002014442,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Citilink,E100002014487,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Deutsche Lufthansa AG,E100002014520,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Emirates,E100002014537,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Etihad Airways,E100002014545,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,FLYNAS,E100002014587,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Flydubai,E100002014581,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Gulf Air,E100002014617,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Jazeera Airways,E100002014665,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Kuwait Airways,E100002014701,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Malaysia Airlines,E100002014733,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Nok Air,E100002014770,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Oman Air,E100002014792,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,SalamAir,E100002014864,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Saudi Arabian Airlines,E100002014870,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Singapore Airlines,E100002014895,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Srilankan Airlines,E100002014932,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai AirAsia,E100002014976,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Airways International,E100002014977,3167031,Rajiv Gandhi International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia Abu Dhabi,E100002014254,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India,E100002014292,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Akasa Air,E100002014348,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Emirates,E100002014537,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Etihad Airways,E100002014545,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Fly Baghdad Airlines,E100002014571,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Flydubai,E100002014581,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Iraqi Airways,E100002014655,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Jazeera Airways,E100002014665,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Kuwait Airways,E100002014701,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Malaysia Airlines,E100002014733,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Saudi Arabian Airlines,E100002014870,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Singapore Airlines,E100002014895,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai AirAsia,E100002014976,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Airways International,E100002014977,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Lion Air,E100002014978,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Vietjet,E100002015038,3165566,Sardar Vallabh Bhai Patel International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India,E100002014292,3165644,Sri Guru Ram Dass Jee International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3165644,Sri Guru Ram Dass Jee International Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3165644,Sri Guru Ram Dass Jee International Airport,transportation,international-aviation
+,,,,,,,,,,,,Airasia X,E100002014336,3165644,Sri Guru Ram Dass Jee International Airport,transportation,international-aviation
+,,,,,,,,,,,,Batik Air Malaysia,E100002014420,3165644,Sri Guru Ram Dass Jee International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3165644,Sri Guru Ram Dass Jee International Airport,transportation,international-aviation
+,,,,,,,,,,,,Malaysia Airlines,E100002014733,3165644,Sri Guru Ram Dass Jee International Airport,transportation,international-aviation
+,,,,,,,,,,,,Neos Air,E100002014763,3165644,Sri Guru Ram Dass Jee International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3165644,Sri Guru Ram Dass Jee International Airport,transportation,international-aviation
+,,,,,,,,,,,,Scoot,E100002014873,3165644,Sri Guru Ram Dass Jee International Airport,transportation,international-aviation
+,,,,,,,,,,,,SpiceJet,E100002014928,3165644,Sri Guru Ram Dass Jee International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai Lion Air,E100002014978,3165644,Sri Guru Ram Dass Jee International Airport,transportation,international-aviation
+,,,,,,,,,,,,Uzbekistan Airways,E100002015033,3165644,Sri Guru Ram Dass Jee International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3169238,Surat Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3169238,Surat Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia,E100002014253,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air Arabia Abu Dhabi,E100002014254,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Emirates,E100002014537,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Etihad Airways,E100002014545,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,FITS Aviation (Pvt) Ltd,E100002014562,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Gulf Air,E100002014617,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Jazeera Airways,E100002014665,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Kuwait Airways,E100002014701,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Malaysia Airlines,E100002014733,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Maldivian,E100002014734,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Oman Air,E100002014792,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Qatar Airways,E100002014831,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,SalamAir,E100002014864,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Scoot,E100002014873,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Srilankan Airlines,E100002014932,3169531,Thiruvananthapuram International Airport,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3169533,Tiruchirappalli International Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3169533,Tiruchirappalli International Airport,transportation,international-aviation
+,,,,,,,,,,,,Batik Air Malaysia,E100002014420,3169533,Tiruchirappalli International Airport,transportation,international-aviation
+,,,,,,,,,,,,IndiGo,E100002014647,3169533,Tiruchirappalli International Airport,transportation,international-aviation
+,,,,,,,,,,,,Scoot,E100002014873,3169533,Tiruchirappalli International Airport,transportation,international-aviation
+,,,,,,,,,,,,Srilankan Airlines,E100002014932,3169533,Tiruchirappalli International Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai AirAsia,E100002014976,3169533,Tiruchirappalli International Airport,transportation,international-aviation
+,,,,,,,,,,,,Vietjet,E100002015038,3169533,Tiruchirappalli International Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3167190,Veer Savarkar International Airport / INS Utkrosh,transportation,international-aviation
+,,,,,,,,,,,,Air India Express,E100002014293,3169757,Vijayawada Airport,transportation,international-aviation
+,,,,,,,,,,,,AirAsia,E100002014334,3169820,Visakhapatnam Airport,transportation,international-aviation
+,,,,,,,,,,,,Scoot,E100002014873,3169820,Visakhapatnam Airport,transportation,international-aviation
+,,,,,,,,,,,,Thai AirAsia,E100002014976,3169820,Visakhapatnam Airport,transportation,international-aviation

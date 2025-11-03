@@ -1,0 +1,12 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+IND,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,3031467.37509068,,annual,,
+IND,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,3493663.972014263,,annual,,
+IND,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,3982781.387742887,,annual,,
+IND,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,4121935.567007165,,annual,,
+IND,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,4480662.938212749,,annual,,
+IND,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,4259838.105654399,,annual,,
+IND,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,5144239.955716368,,annual,,
+IND,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,5863714.066255654,,annual,,
+IND,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,co2,6011538.620206306,,annual,,
+IND,transportation,domestic-shipping,2024-01-01 00:00:00,2024-12-31 00:00:00,co2,5763516.731118044,,annual,,
+IND,transportation,domestic-shipping,2025-01-01 00:00:00,2025-12-31 00:00:00,co2,3654606.382487815,,annual,,
