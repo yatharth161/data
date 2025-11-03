@@ -1,0 +1,12 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+IND,power,other-energy-use,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,53179429.23806471,,annual,,
+IND,power,other-energy-use,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,39037526.96146164,,annual,,
+IND,power,other-energy-use,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,60470648.80279656,,annual,,
+IND,power,other-energy-use,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,119190605.19032456,,annual,,
+IND,power,other-energy-use,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,91604723.40401216,,annual,,
+IND,power,other-energy-use,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,68272299.19704457,,annual,,
+IND,power,other-energy-use,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,39503288.80589713,,annual,,
+IND,power,other-energy-use,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,34531918.466335386,,annual,,
+IND,power,other-energy-use,2023-01-01 00:00:00,2023-12-31 00:00:00,co2,46933558.32418628,,annual,,
+IND,power,other-energy-use,2024-01-01 00:00:00,2024-12-31 00:00:00,co2,46933558.32418628,,annual,,
+IND,power,other-energy-use,2025-01-01 00:00:00,2025-12-31 00:00:00,co2,30518556.44656642,,annual,,
