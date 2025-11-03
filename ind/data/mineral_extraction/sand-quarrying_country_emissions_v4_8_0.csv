@@ -1,0 +1,12 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+IND,mineral-extraction,sand-quarrying,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,12.999999999999998,,annual,,
+IND,mineral-extraction,sand-quarrying,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,14.000000000000002,,annual,,
+IND,mineral-extraction,sand-quarrying,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,14.0,,annual,,
+IND,mineral-extraction,sand-quarrying,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,14.0,,annual,,
+IND,mineral-extraction,sand-quarrying,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,14.000000000000002,,annual,,
+IND,mineral-extraction,sand-quarrying,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,15.0,,annual,,
+IND,mineral-extraction,sand-quarrying,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,15.0,,annual,,
+IND,mineral-extraction,sand-quarrying,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,15.0,,annual,,
+IND,mineral-extraction,sand-quarrying,2023-01-01 00:00:00,2023-12-31 00:00:00,co2,15.000000000000002,,annual,,
+IND,mineral-extraction,sand-quarrying,2024-01-01 00:00:00,2024-12-31 00:00:00,co2,15.0,,annual,,
+IND,mineral-extraction,sand-quarrying,2025-01-01 00:00:00,2025-12-31 00:00:00,co2,9.928968586027622,,annual,,

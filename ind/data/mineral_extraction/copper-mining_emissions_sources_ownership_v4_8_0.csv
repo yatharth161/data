@@ -1,0 +1,8 @@
+parent_name,parent_entity_id,parent_entity_type,parent_lei,parent_permid,parent_registration_country,parent_headquarter_country,overall_share_percent,ownership_path,ownership_path_datasource_ids,immediate_source_owner,immediate_source_owner_entity_id,source_operator,source_operator_id,source_id,source_name,source_sector,source_subsector
+Hindustan Copper Ltd,E100002010981,,,,,,,Hindustan Copper Ltd -> Banwas Mine [unknown %],,Hindustan Copper Ltd,E100002010981,,,45944881,Banwas Mine,mineral-extraction,copper-mining
+Hindustan Copper Ltd,E100002010981,,,,,,,Hindustan Copper Ltd -> Kendadih Mine [unknown %],,Hindustan Copper Ltd,E100002010981,,,45944882,Kendadih Mine,mineral-extraction,copper-mining
+Hindustan Copper Ltd,E100002010981,,,,,,,Hindustan Copper Ltd -> Khetri Mine [unknown %],,Hindustan Copper Ltd,E100002010981,,,45944883,Khetri Mine,mineral-extraction,copper-mining
+Hindustan Copper Ltd,E100002010981,,,,,,,Hindustan Copper Ltd -> Kolihan Mine [unknown %],,Hindustan Copper Ltd,E100002010981,,,45944884,Kolihan Mine,mineral-extraction,copper-mining
+Hindustan Copper Ltd,E100002010981,,,,,,,Hindustan Copper Ltd -> Malanjkhand Mine [unknown %],,Hindustan Copper Ltd,E100002010981,,,45944885,Malanjkhand Mine,mineral-extraction,copper-mining
+Hindustan Copper Ltd,E100002010981,,,,,,,Hindustan Copper Ltd -> Rakha Mine [unknown %],,Hindustan Copper Ltd,E100002010981,,,45944886,Rakha Mine,mineral-extraction,copper-mining
+Hindustan Copper Ltd,E100002010981,,,,,,,Hindustan Copper Ltd -> Surda Mine [unknown %],,Hindustan Copper Ltd,E100002010981,,,45944887,Surda Mine,mineral-extraction,copper-mining

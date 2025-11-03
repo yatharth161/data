@@ -1,0 +1,12 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+IND,mineral-extraction,copper-mining,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,17689.0,,annual,,
+IND,mineral-extraction,copper-mining,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,17511.0,,annual,,
+IND,mineral-extraction,copper-mining,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,17925.0,,annual,,
+IND,mineral-extraction,copper-mining,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,20883.0,,annual,,
+IND,mineral-extraction,copper-mining,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,17275.0,,annual,,
+IND,mineral-extraction,copper-mining,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,13488.0,,annual,,
+IND,mineral-extraction,copper-mining,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,12687.000000000002,,annual,,
+IND,mineral-extraction,copper-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,14789.0,,annual,,
+IND,mineral-extraction,copper-mining,2023-01-01 00:00:00,2023-12-31 00:00:00,co2,16704.0,,annual,,
+IND,mineral-extraction,copper-mining,2024-01-01 00:00:00,2024-12-31 00:00:00,co2,16704.0,,annual,,
+IND,mineral-extraction,copper-mining,2025-01-01 00:00:00,2025-12-31 00:00:00,co2,11056.89941740036,,annual,,

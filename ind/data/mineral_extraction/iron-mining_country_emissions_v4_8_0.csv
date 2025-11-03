@@ -1,0 +1,12 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+IND,mineral-extraction,iron-mining,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,18298272.0,,annual,,
+IND,mineral-extraction,iron-mining,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,23708379.0,,annual,,
+IND,mineral-extraction,iron-mining,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,25933228.0,,annual,,
+IND,mineral-extraction,iron-mining,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,26225694.0,,annual,,
+IND,mineral-extraction,iron-mining,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,30601504.0,,annual,,
+IND,mineral-extraction,iron-mining,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,22478706.0,,annual,,
+IND,mineral-extraction,iron-mining,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,40868287.0,,annual,,
+IND,mineral-extraction,iron-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,42473289.0,,annual,,
+IND,mineral-extraction,iron-mining,2023-01-01 00:00:00,2023-12-31 00:00:00,co2,28783804.0,,annual,,
+IND,mineral-extraction,iron-mining,2024-01-01 00:00:00,2024-12-31 00:00:00,co2,28783804.0,,annual,,
+IND,mineral-extraction,iron-mining,2025-01-01 00:00:00,2025-12-31 00:00:00,co2,19052899.04682508,,annual,,
